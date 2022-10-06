@@ -1,6 +1,6 @@
 import torch
 import numpy as np
-from Maglev_memory import Maglev
+from src.Maglev_memory import Maglev
 from src.DDPG.DDPGAgent import DDPGAgent
 import matplotlib.pyplot as plt
 plt.rcParams['axes.grid'] = True

@@ -1,11 +1,8 @@
-import gym
-import numpy as np
 from sac_torch import Agent
 from utils import plot_learning_curve
-import numpy as np
 
-from Maglev_memory import Maglev
-from reward_func_lib import *
+from src.Maglev_memory import Maglev
+from src.reward_func_lib import *
 
 # def exponential_relative_deviation_rwd(state, action, ref):
 #     err = state[0]
