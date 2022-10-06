@@ -1,0 +1,21 @@
+/Missile SINDy/
+/models/
+/plots/
+/presentation/
+/references/
+/results/
+/src/
+/check_multi_ref_controller.py
+/Coach.py
+/Maglev_memory.py
+/MaglevDDPG_train.py
+/PaperMachine.py
+/PaperMachine_exp.py
+/reward_func_lib.py
+/train_and_results.py
+/relatorio/.ipynb_checkpoints/
+/relatorio/models/
+/relatorio/results/
+/relatorio/DRL control.zip
+/relatorio/esquema_planta.png
+/relatorio/presentation_drl_control.pdf
