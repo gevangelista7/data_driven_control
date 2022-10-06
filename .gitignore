@@ -4,18 +4,9 @@
 /presentation/
 /references/
 /results/
-/src/
-/src/check_multi_ref_controller.py
-/src/Coach.py
-/src/Maglev_memory.py
-/src/MaglevDDPG_train.py
-/src/PaperMachine.py
-/src/PaperMachine_exp.py
-/src/reward_func_lib.py
-/src/train_and_results.py
 /relatorio/.ipynb_checkpoints/
 /relatorio/models/
 /relatorio/results/
 /relatorio/DRL control.zip
 /relatorio/esquema_planta.png
-/relatorio/presentation_drl_control.pdf
+
